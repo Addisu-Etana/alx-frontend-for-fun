@@ -1,9 +1,7 @@
 ## Web Stack Specialization - Front-end
-
 ![Holberton logo](https://www.alxafrica.com/wp-content/uploads/2022/01/header-logo.png)
-> Web Stack - Front-end
-
 ## Description:bulb:
+
 * Advanced HTML/CSS
 * Developer Tools
 * SCSS
@@ -43,7 +41,7 @@
 
 ## Author
 
-- **Addisu-Etana** (@Addisu) - 
+- **Addisu-Etana**(@Addisu)
 
   [<img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?&style=plastic&logo=twitter&logoColor=white"/>](https://x.com/addisu_etana)
   [<img src="https://img.shields.io/badge/Linkedin-0A66C2.svg?&style=plastic&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/addisu-etana-117258252/)
